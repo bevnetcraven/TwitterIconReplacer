@@ -3,7 +3,7 @@ Chrome extension to removes ~~Doge~~ X icon from twitter and replaces it with a 
 
 # To install
 
-1. Download the files and unzip to a folder of your choice
+1. Download the files (Code->Download Zip) and unzip to a folder of your choice
 2. Go to chrome://extensions in your chrome browser
 3. Toggle the switch to enable Developer Mode
 4. Click "Load Unpacked"
