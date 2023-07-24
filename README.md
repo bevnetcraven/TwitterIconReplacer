@@ -1,5 +1,5 @@
 # TwitterIconReplacer
-Chrome extension to removes Doge icon from twitter and replaces it with a negroni
+Chrome extension to removes ~~Doge~~ X icon from twitter and replaces it with a negroni
 
 # To install
 
